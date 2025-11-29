@@ -2,43 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>https://yourdomain.com/</loc>
+    <loc>https://freemath.it.com/</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>https://yourdomain.com/online_calculator.html</loc>
+    <loc>https://freemath.it.com/online_calculator.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://yourdomain.com/simple_calculator.html</loc>
+    <loc>https://freemath.it.com/simple_calculator.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://yourdomain.com/scientific_calculator.html</loc>
+    <loc>https://freemath.it.com/scientific_calculator.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://yourdomain.com/root_calculator.html</loc>
+    <loc>https://freemath.it.com/root_calculator.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://yourdomain.com/percentage_calculator.html</loc>
+    <loc>https://freemath.it.com/percentage_calculator.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://yourdomain.com/widgets_calculator.html</loc>
+    <loc>https://freemath.it.com/widgets_calculator.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
