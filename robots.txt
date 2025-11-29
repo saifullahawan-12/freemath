@@ -1,4 +1,3 @@
 User-agent: *
-Allow: /
-
-Sitemap: https://yourdomain.com/sitemap.xml
+Disallow:
+Sitemap: https://freemath.it.com/sitemap.xml
